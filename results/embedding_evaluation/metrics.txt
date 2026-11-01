@@ -1,0 +1,5 @@
+Validation ROC-AUC: 0.8544
+Validation pair accuracy: 0.7832
+Test ROC-AUC: 0.8714
+Test pair accuracy: 0.7960
+Threshold (selected on validation): 0.0984

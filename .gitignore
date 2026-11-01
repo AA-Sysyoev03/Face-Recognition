@@ -1,0 +1,30 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Обученные модели
+checkpoints/
+*.pth
+*.pt
+
+# Датасеты и изображения
+data/raw/
+data/aligned/
+data/annotations/
+*.zip
+
+# Сохранённые эмбеддинги
+*.npz
+
+# Временные результаты
+data/pipeline_results/
+data/alignment_results/
+data/verification/
+
+# Настройки редактора
+.vscode/
